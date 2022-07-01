@@ -55,7 +55,6 @@ p {
 }
 
 .text_bold {
-    font-weight: 700;
     color: var(--color-dark-blue);
     margin-bottom: 15px;
 }
